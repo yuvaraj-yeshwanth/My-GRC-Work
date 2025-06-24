@@ -34,7 +34,7 @@ Risk Scoring Matrix: Likelihood × Impact model to prioritize risks.
 
 Excel Tracker & Power BI Dashboard: Dynamic tools to visualize and manage cyber risks.
 
-🎯 Why This Portfolio?
+🎯 Why This Project?
 
 These projects reflect:
 

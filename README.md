@@ -1,6 +1,6 @@
 My GRC Work – Real-World Compliance Projects (ISO 27001, SOC 2, GDPR, Risk Register)
 
-📌 This portfolio demonstrates hands-on Governance, Risk, and Compliance (GRC) skills through self-developed projects that simulate real-world corporate scenarios. Each project aligns with industry standards like ISO 27001, SOC 2 Type II, and GDPR/DPDPA.
+📌 This Project demonstrates hands-on Governance, Risk, and Compliance (GRC) skills through self-developed projects that simulate real-world corporate scenarios. Each project aligns with industry standards like ISO 27001, SOC 2 Type II, and GDPR/DPDPA.
 
 📂 Included Projects
 

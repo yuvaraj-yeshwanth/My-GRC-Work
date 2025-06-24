@@ -46,4 +46,6 @@ Risk management and security governance skills
 
 Technical ability to create audit-ready documentation
 
-📫 LinkedIn Profile📎 Location: Chennai, India
+[Connect with me on LinkedIn](https://www.linkedin.com/in/yuvaraj-m-b718151b9/)
+
+Location: Chennai, India
